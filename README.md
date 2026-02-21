@@ -2,9 +2,6 @@
 
 Este es el primer proyecto del currículo de **The Odin Project**. El objetivo principal fue demostrar el dominio básico de HTML, incluyendo la estructura de documentos, el uso de etiquetas, enlaces y la gestión de imágenes.
 
-## 🚀 Vista Previa
-Puedes ver el proyecto en vivo aquí: [Enlace a GitHub Pages]
-
 ## 🛠️ Tecnologías Utilizadas
 * **HTML5**: Estructuración del contenido.
 * **Git/GitHub**: Control de versiones y despliegue.
@@ -22,5 +19,4 @@ Durante el desarrollo de este proyecto, reforcé conceptos fundamentales como:
 ├── index.html          # Página principal
 ├── recipes/            # Directorio de recetas
 │   ├── lasagna.html
-│   └── tacos.html
-└── images/             # Activos visuales
+└──  └── tacos.html
